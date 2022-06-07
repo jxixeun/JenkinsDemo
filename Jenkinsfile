@@ -17,6 +17,5 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-        echo '20202392'
     }
 }
